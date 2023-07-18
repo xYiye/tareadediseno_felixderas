@@ -112,7 +112,7 @@ class Contacto extends StatelessWidget {
                     'Información de contacto',
                     style: TextStyle(
                       fontSize: 16,
-                      fontWeight: FontWeight.w400,
+                      fontWeight: FontWeight.w600,
                     ),
                   ),
                   const SizedBox(height: 29),
