@@ -75,7 +75,7 @@ class Contacto extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   OpcionContacto(
-                    icono: Icons.call,
+                    icono: Icons.call_outlined,
                     etiqueta: 'Llamar',
                     color: Color(0xFF4D73B9),
                   ),
